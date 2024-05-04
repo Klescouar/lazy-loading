@@ -1,0 +1,10 @@
+.HeroSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100lvh;
+
+  &__Logo {
+    height: 100vh;
+  }
+}
